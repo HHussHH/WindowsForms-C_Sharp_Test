@@ -1,2 +1,19 @@
 Расположение exe файла: testApp\WindowsFormsApp1\bin\Release
 Расположение оценок и количества верных ответов с фамилией: C:\Users\Public
+
+Eu
+An application created on WindowsForms
+Its essence is that it is a test of knowledge of the C programming language#
+There are 4 variants of 20 questions in the test.
+The assessment is said only at the end of the work after specifying your last name.
+
+The work was done on the instructions of the educational institution.
+
+
+Ru
+Приложение созданное на WindowsForms
+Его суть в том,что это тест на знания языка программирования C#
+В тесте 4 варианта по 20 вопросов.
+Оценка говорится лишь в конце работу после указания своей фамилии.
+
+Работа была сделана по заданию учебного заведения.

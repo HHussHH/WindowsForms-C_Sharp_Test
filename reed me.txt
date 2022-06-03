@@ -1,0 +1,2 @@
+Расположение exe файла: testApp\WindowsFormsApp1\bin\Release
+Расположение оценок и количества верных ответов с фамилией: C:\Users\Public
